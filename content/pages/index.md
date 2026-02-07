@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Πέτρο αν το βλέπεις αυτό κανε screenshot shot και πηδα απο το μπαλκόνι. 
+      text: ο καλύτερος μπαμπάς του κόσμου.Πετρος Βασιλειου 
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
