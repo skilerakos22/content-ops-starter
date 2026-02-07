@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ο καλύτερος μπαμπάς του κόσμου.Πετρος Βασιλειου 
+      text:Μανούλα Μήνα σαγαπαω  και ας μην στο λέω. Ακης
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
