@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: Section subtitle
     text: >
-      Πέτρο αν το δεις αυτό κανε screenshot  και απαντά στο ινστα  παλιό ΜΑΛΑΚΑ
+      2222222222
     actions:
       - label: See open positions
         url: /
@@ -101,8 +101,7 @@ sections:
       - title: Open Source Engineer
         subtitle: Marketing
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          3333333333.
           explicabo.
         colors: bg-neutral-fg-dark
         styles:
